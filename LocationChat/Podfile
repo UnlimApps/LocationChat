@@ -4,7 +4,7 @@ target 'app' do
 	pod 'Bolts'
 	pod 'FBSDKCoreKit'
 	pod 'FBSDKLoginKit'
-	pod 'Firebase'
+	pod 'Firebase', '~> 2.5.1'
 	pod 'Parse'
 	pod 'ParseFacebookUtilsV4'
 	pod 'ParseTwitterUtils'
